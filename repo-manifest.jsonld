@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/sphinx-proof/commit/d1113a8299fc9ec4abbf8e032d8097642d96fb65",
       "git:hexsha": "d1113a8299fc9ec4abbf8e032d8097642d96fb65",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.4.0"
     },
     {
