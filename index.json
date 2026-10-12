@@ -1,0 +1,11 @@
+{
+  "org": "executablebooks",
+  "repo": "sphinx-proof",
+  "versions": [
+    {
+      "commit": "d1113a8299fc9ec4abbf8e032d8097642d96fb65",
+      "tag": "v0.4.0",
+      "parsed_at": "2026-10-12T20:04:38.488443+00:00"
+    }
+  ]
+}
